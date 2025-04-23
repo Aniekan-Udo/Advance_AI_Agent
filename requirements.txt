@@ -1,0 +1,10 @@
+langchain
+dotenv
+langgraph>=0.0.40
+typing_extensions
+IPython
+langchain_community
+langchain-huggingface
+langchain_fireworks
+langchain_experimental
+langgraph_supervisor 
